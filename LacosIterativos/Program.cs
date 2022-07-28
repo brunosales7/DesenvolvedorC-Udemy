@@ -27,7 +27,9 @@ namespace LacosIterativos
 
             //Do ... while
             //Execução garantida pelo menos uma vez! (executa o bloco primeiro e depois faz o teste de condição)
+
             double j = 10;
+
             do
             {
                 Console.WriteLine(j);
@@ -36,6 +38,13 @@ namespace LacosIterativos
     
             //Foreach
             //Percorre todos os elementos de um conjunto
+
+            int[] conjunto = { 1, 2, 3, 4};
+            foreach(int numero in conjunto)
+            {
+                Console.WriteLine("Esse elemento de conjunto tem valor " + numero + "! Somando esse valor a 10 temos " + (numero*10));
+                
+            }
 
 
         }

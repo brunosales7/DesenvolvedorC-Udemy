@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposEVariaveis", "TiposEVariaveis\TiposEVariaveis.csproj", "{F712DD1D-76B5-4EC6-9B4C-F093686AC17C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{6C5202CD-3A9D-49D0-85BA-FE145E392C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosCondicionais", "LacosCondicionais\LacosCondicionais.csproj", "{EF9C019F-1AEC-437F-81B8-17683DBEB47C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F712DD1D-76B5-4EC6-9B4C-F093686AC17C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F712DD1D-76B5-4EC6-9B4C-F093686AC17C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F712DD1D-76B5-4EC6-9B4C-F093686AC17C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5202CD-3A9D-49D0-85BA-FE145E392C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5202CD-3A9D-49D0-85BA-FE145E392C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5202CD-3A9D-49D0-85BA-FE145E392C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5202CD-3A9D-49D0-85BA-FE145E392C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9C019F-1AEC-437F-81B8-17683DBEB47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9C019F-1AEC-437F-81B8-17683DBEB47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9C019F-1AEC-437F-81B8-17683DBEB47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9C019F-1AEC-437F-81B8-17683DBEB47C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
